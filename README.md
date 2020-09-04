@@ -6,5 +6,3 @@ Please Have a Read and Give Feed Back
 http://www.ajscieng.com/index.php/ajse/article/view/ajse2013098/ajse2013098
 
 https://www.researchgate.net/publication/343834124_Improvement_of_Quantum_Circuits_Using_H-U-H_Sandwich_Technique_with_Diagonal_Matrix_Implementation
-
-I will Upload the Code of this project here soon IA
